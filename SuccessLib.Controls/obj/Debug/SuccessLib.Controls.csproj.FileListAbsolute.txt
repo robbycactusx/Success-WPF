@@ -1,0 +1,11 @@
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\SuccessLib.Controls.csprojResolveAssemblyReference.cache
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\SuccessLib.Controls.dll
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\SuccessLib.Controls.pdb
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\bin\Debug\SuccessLib.Controls.dll
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\bin\Debug\SuccessLib.Controls.pdb
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\SuccessLib.Controls.csproj.GenerateResource.Cache
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\SuccessLib.Controls_MarkupCompile.cache
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\SuccessLib.Controls.g.resources
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\Controls\WpfWindow.baml
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\Controls\WpfWindow.g.cs
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Controls\obj\Debug\SuccessWPF.Properties.Resources.resources

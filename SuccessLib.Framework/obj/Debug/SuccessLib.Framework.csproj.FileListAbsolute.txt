@@ -1,0 +1,5 @@
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Framework\bin\Debug\SuccessLib.Framework.dll
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Framework\bin\Debug\SuccessLib.Framework.pdb
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Framework\obj\Debug\SuccessLib.Framework.dll
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Framework\obj\Debug\SuccessLib.Framework.pdb
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Framework\obj\Debug\SuccessLib.Framework.csprojResolveAssemblyReference.cache

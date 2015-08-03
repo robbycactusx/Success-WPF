@@ -1,0 +1,5 @@
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Tests\bin\Debug\SuccessLib.Tests.dll
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Tests\bin\Debug\SuccessLib.Tests.pdb
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Tests\obj\Debug\SuccessLib.Tests.csprojResolveAssemblyReference.cache
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Tests\obj\Debug\SuccessLib.Tests.dll
+C:\Work\RobbyMillsap\Success-WPF\SuccessLib.Tests\obj\Debug\SuccessLib.Tests.pdb
