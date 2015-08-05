@@ -6,3 +6,11 @@ C:\Work\RobbyMillsap\Success-WPF\ExampleApp-SocialMediaApp.Tests\obj\Debug\Examp
 C:\Work\RobbyMillsap\Success-WPF\ExampleApp-SocialMediaApp.Tests\bin\Debug\SuccessLib.Framework.dll
 C:\Work\RobbyMillsap\Success-WPF\ExampleApp-SocialMediaApp.Tests\bin\Debug\SuccessLib.Framework.pdb
 C:\Work\RobbyMillsap\Success-WPF\ExampleApp-SocialMediaApp.Tests\bin\Debug\ExampleApp-SocialMediaApp.Tests.dll.config
+C:\CactusX\Success-WPF\ExampleApp-SocialMediaApp.Tests\bin\Debug\ExampleApp-SocialMediaApp.Tests.dll.config
+C:\CactusX\Success-WPF\ExampleApp-SocialMediaApp.Tests\bin\Debug\ExampleApp-SocialMediaApp.Tests.dll
+C:\CactusX\Success-WPF\ExampleApp-SocialMediaApp.Tests\bin\Debug\ExampleApp-SocialMediaApp.Tests.pdb
+C:\CactusX\Success-WPF\ExampleApp-SocialMediaApp.Tests\bin\Debug\SuccessLib.Framework.dll
+C:\CactusX\Success-WPF\ExampleApp-SocialMediaApp.Tests\bin\Debug\SuccessLib.Framework.pdb
+C:\CactusX\Success-WPF\ExampleApp-SocialMediaApp.Tests\obj\Debug\ExampleApp-SocialMediaApp.Tests.csprojResolveAssemblyReference.cache
+C:\CactusX\Success-WPF\ExampleApp-SocialMediaApp.Tests\obj\Debug\ExampleApp-SocialMediaApp.Tests.dll
+C:\CactusX\Success-WPF\ExampleApp-SocialMediaApp.Tests\obj\Debug\ExampleApp-SocialMediaApp.Tests.pdb

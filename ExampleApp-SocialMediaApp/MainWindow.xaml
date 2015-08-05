@@ -2,8 +2,11 @@
         xmlns:wpf="clr-namespace:SuccessWPF.Controls;assembly=SuccessLib.Controls"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        DataContext="{StaticResource MainViewModel}"
         Title="Social Media Pro" Height="300" Width="300">
-    <Grid>
+    
+    <wpf:UIContainer>
         
-    </Grid>
+    </wpf:UIContainer>
+    
 </wpf:WpfWindow>
